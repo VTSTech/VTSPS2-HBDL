@@ -18,7 +18,7 @@
 #include "include/textures.h"
 #include "include/pad.h"
 
-#define DBSIZE 61 //lines in VTSPS2-HBDL.TXT
+#define DBSIZE 61; //lines in VTSPS2-HBDL.TXT
 
 //0.32-GUI
 static char localcrc[9];
